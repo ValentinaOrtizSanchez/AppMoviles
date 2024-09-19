@@ -27,7 +27,7 @@ Booleano (boolean): true, false
 //Ejemplo
 let mensaje = 'hola mundo';
 let numero = 17;
-let Estudiante = true;
+let Est = true;
 
 //Operadores matematicos
 let a = 5;
